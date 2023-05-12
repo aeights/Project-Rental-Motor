@@ -1,0 +1,29 @@
+select * from akun_user
+select * from orders
+select * from motor
+drop table akun_user
+drop table orders
+drop table motor
+
+create table akun_user(
+	username varchar(20) primary key,
+	password varchar(20) not null,
+	nama varchar(100) not null
+)
+
+create table orders(
+	order_id serial primary key,
+	username varchar(20) not null,
+	id_motor varchar(20) not null,
+	hari int not null,
+	total bigint not null
+)
+
+create table motor(
+	id_motor varchar(20) primary key,
+	nama_motor varchar(20) not null,
+	merk varchar(20) not null,
+	cc varchar(20) not null,
+	plat varchar(20) not null,
+	harga bigint not null
+)

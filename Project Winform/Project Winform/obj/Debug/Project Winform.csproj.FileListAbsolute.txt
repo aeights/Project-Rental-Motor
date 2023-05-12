@@ -1,0 +1,162 @@
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\obj\Debug\Project Winform.csproj.AssemblyReference.cache
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\obj\Debug\Project Winform.csproj.SuggestedBindingRedirects.cache
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\obj\Debug\Project_Winform.Home.resources
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\obj\Debug\Project_Winform.Login_User.resources
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\obj\Debug\Project_Winform.Properties.Resources.resources
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\obj\Debug\Project Winform.csproj.GenerateResource.cache
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\obj\Debug\Project Winform.csproj.CoreCompileInputs.cache
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\Project Winform.exe.config
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\Project Winform.exe
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\Project Winform.pdb
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\Npgsql.dll
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\System.Buffers.dll
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\System.Collections.Immutable.dll
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\System.Memory.dll
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\System.Numerics.Vectors.dll
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\System.Security.AccessControl.dll
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\System.Security.Permissions.dll
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\System.Security.Principal.Windows.dll
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\System.Text.Encodings.Web.dll
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\System.Text.Json.dll
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\System.Threading.Channels.dll
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\System.ValueTuple.dll
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\Npgsql.xml
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\System.Buffers.xml
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\System.Collections.Immutable.xml
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\System.Memory.xml
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\System.Numerics.Vectors.xml
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\System.Security.AccessControl.xml
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\System.Security.Permissions.xml
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\System.Security.Principal.Windows.xml
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\System.Text.Encodings.Web.xml
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\System.Text.Json.xml
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\System.Threading.Channels.xml
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\bin\Debug\System.ValueTuple.xml
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\obj\Debug\Project Winform.csproj.CopyComplete
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\obj\Debug\Project Winform.exe
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\obj\Debug\Project Winform.pdb
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\obj\Debug\Project_Winform.Login_Admin.resources
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\obj\Debug\Project_Winform.Welcome.resources
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\obj\Debug\Project_Winform.Daftar_user.resources
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\Project Winform.exe.config
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\Project Winform.exe
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\Project Winform.pdb
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\Npgsql.dll
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\System.Buffers.dll
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\System.Collections.Immutable.dll
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\System.Memory.dll
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\System.Numerics.Vectors.dll
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\System.Security.AccessControl.dll
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\System.Security.Permissions.dll
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\System.Security.Principal.Windows.dll
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\System.Text.Encodings.Web.dll
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\System.Text.Json.dll
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\System.Threading.Channels.dll
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\System.ValueTuple.dll
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\Npgsql.xml
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\System.Buffers.xml
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\System.Collections.Immutable.xml
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\System.Memory.xml
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\System.Numerics.Vectors.xml
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\System.Security.AccessControl.xml
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\System.Security.Permissions.xml
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\System.Security.Principal.Windows.xml
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\System.Text.Encodings.Web.xml
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\System.Text.Json.xml
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\System.Threading.Channels.xml
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Kuliah\PBO\Project Winform\Project Winform\bin\Debug\System.ValueTuple.xml
+D:\Kuliah\PBO\Project Winform\Project Winform\obj\Debug\Project Winform.csproj.AssemblyReference.cache
+D:\Kuliah\PBO\Project Winform\Project Winform\obj\Debug\Project Winform.csproj.SuggestedBindingRedirects.cache
+D:\Kuliah\PBO\Project Winform\Project Winform\obj\Debug\Project_Winform.Daftar_user.resources
+D:\Kuliah\PBO\Project Winform\Project Winform\obj\Debug\Project_Winform.Home.resources
+D:\Kuliah\PBO\Project Winform\Project Winform\obj\Debug\Project_Winform.Login_Admin.resources
+D:\Kuliah\PBO\Project Winform\Project Winform\obj\Debug\Project_Winform.Login_User.resources
+D:\Kuliah\PBO\Project Winform\Project Winform\obj\Debug\Project_Winform.Properties.Resources.resources
+D:\Kuliah\PBO\Project Winform\Project Winform\obj\Debug\Project_Winform.Welcome.resources
+D:\Kuliah\PBO\Project Winform\Project Winform\obj\Debug\Project Winform.csproj.GenerateResource.cache
+D:\Kuliah\PBO\Project Winform\Project Winform\obj\Debug\Project Winform.csproj.CoreCompileInputs.cache
+D:\Kuliah\PBO\Project Winform\Project Winform\obj\Debug\Project Winform.csproj.CopyComplete
+D:\Kuliah\PBO\Project Winform\Project Winform\obj\Debug\Project Winform.exe
+D:\Kuliah\PBO\Project Winform\Project Winform\obj\Debug\Project Winform.pdb
+D:\Kuliah\PBO\Project Winform\Project Winform\obj\Debug\Project_Winform.Menu_Admin.resources
+D:\Kuliah\PBO\Project Winform\Project Winform\obj\Debug\Project_Winform.Motor.resources
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\obj\Debug\Project_Winform.Motor.resources
+E:\[Informatika]\PBO\Coding\Project Winform\Project Winform\obj\Debug\Project_Winform.Orders.resources
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\Project Winform.exe.config
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\Project Winform.exe
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\Project Winform.pdb
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\Npgsql.dll
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\System.Buffers.dll
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\System.Collections.Immutable.dll
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\System.Memory.dll
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\System.Numerics.Vectors.dll
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\System.Security.AccessControl.dll
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\System.Security.Permissions.dll
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\System.Security.Principal.Windows.dll
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\System.Text.Encodings.Web.dll
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\System.Text.Json.dll
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\System.Threading.Channels.dll
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\System.ValueTuple.dll
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\Npgsql.xml
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\System.Buffers.xml
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\System.Collections.Immutable.xml
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\System.Memory.xml
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\System.Numerics.Vectors.xml
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\System.Security.AccessControl.xml
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\System.Security.Permissions.xml
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\System.Security.Principal.Windows.xml
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\System.Text.Encodings.Web.xml
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\System.Text.Json.xml
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\System.Threading.Channels.xml
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\bin\Debug\System.ValueTuple.xml
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\obj\Debug\Project Winform.csproj.AssemblyReference.cache
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\obj\Debug\Project Winform.csproj.SuggestedBindingRedirects.cache
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\obj\Debug\Project_Winform.Daftar_user.resources
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\obj\Debug\Project_Winform.Home.resources
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\obj\Debug\Project_Winform.Login_Admin.resources
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\obj\Debug\Project_Winform.Login_User.resources
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\obj\Debug\Project_Winform.Motor.resources
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\obj\Debug\Project_Winform.Orders.resources
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\obj\Debug\Project_Winform.Properties.Resources.resources
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\obj\Debug\Project_Winform.Welcome.resources
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\obj\Debug\Project Winform.csproj.GenerateResource.cache
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\obj\Debug\Project Winform.csproj.CoreCompileInputs.cache
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\obj\Debug\Project Winform.csproj.CopyComplete
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\obj\Debug\Project Winform.exe
+D:\Data\[Informatika]\PBO\Coding\212410103049_Muhammad Afif Ma'ruf\Project Winform\Project Winform\obj\Debug\Project Winform.pdb
